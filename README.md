@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shireesh18
 - 👀 I’m interested in swift , kotlin, react native
-- 🌱 I’m currently learning react natvie
+- 🌱 I’m currently learning react native
 - 💞️ I’m looking to collaborate on building cool mobile apps
 - 📫 How to reach me ...email me at shireesh18@gmail.com
 
